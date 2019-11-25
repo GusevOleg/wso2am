@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence xmlns="http://ws.apache.org/ns/synapse" name="admin--kart1:v1.0.0--In">
+   <log level="full">
+      <property name="IN_MESSAGE" value="IN_MESSAGE"/>
+   </log>
+   <property xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"
+             xmlns:ns3="http://org.apache.synapse/xsd"
+             name="msgID"
+             expression="get-property('MessageID')"/>
+   <log level="custom">
+      <property xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"
+                xmlns:ns3="http://org.apache.synapse/xsd"
+                name="Host"
+                expression="get-property('transport', 'Host')"/>
+      <property xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"
+                xmlns:ns3="http://org.apache.synapse/xsd"
+                name="Context"
+                expression="get-property('To')"/>
+      <property xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"
+                xmlns:ns3="http://org.apache.synapse/xsd"
+                name="Http_Method"
+                expression="get-property('axis2', 'HTTP_METHOD')"/>
+      <property xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"
+                xmlns:ns3="http://org.apache.synapse/xsd"
+                name="Resource"
+                expression="get-property('axis2', 'REST_URL_POSTFIX')"/>
+      <property xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"
+                xmlns:ns3="http://org.apache.synapse/xsd"
+                name="Origin"
+                expression="get-property('transport', 'Origin')"/>
+      <property xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"
+                xmlns:ns3="http://org.apache.synapse/xsd"
+                name="Content-Type"
+                expression="get-property('transport', 'Content-Type')"/>
+      <property xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"
+                xmlns:ns3="http://org.apache.synapse/xsd"
+                name="Message_Id"
+                expression="get-property('msgID')"/>
+   </log>
+</sequence>

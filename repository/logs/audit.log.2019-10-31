@@ -1,0 +1,4 @@
+[2019-10-31 05:46:05,928]  INFO -  Initiator=wso2.system.user Action=Get-Roles-of-User Target=admin Data={"Filter":"*","Roles":["Internal/subscriber","Internal/creator","Internal/publisher","Internal/everyone","admin"]} Outcome=Success 
+[2019-10-31 05:46:41,173]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-31 05:46:41,172+0000] 
+[2019-10-31 05:49:05,427]  INFO -  Initiator=admin@carbon.super Action=Get-User-List Target=null Data={"Users":["admin","dev","developer"]} Outcome=Success 
+[2019-10-31 06:01:28,499]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-31 06:01:28,496+0000] from IP address  

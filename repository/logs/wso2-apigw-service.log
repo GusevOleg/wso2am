@@ -1,0 +1,249 @@
+2019-10-28 19:19:01,496 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-10-28 19:19:01,537 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-10-28 19:19:01,538 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-10-28 20:00:06,009 [-] [PassThroughMessageProcessor-19]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-28 20:08:35,544 [-] [PassThroughMessageProcessor-29]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-28 20:08:42,308 [-] [PassThroughMessageProcessor-31]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-28 20:10:47,095 [-] [PassThroughMessageProcessor-35]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-28 20:11:01,961 [-] [PassThroughMessageProcessor-38]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 06:08:26,712 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-10-29 06:08:26,728 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-10-29 06:08:26,728 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-10-29 06:37:28,503 [-] [PassThroughMessageProcessor-48]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 06:38:36,491 [-] [PassThroughMessageProcessor-51]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 06:39:48,586 [-] [PassThroughMessageProcessor-54]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 06:39:52,551 [-] [PassThroughMessageProcessor-57]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 07:30:04,345 [-] [PassThroughMessageProcessor-102]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 07:30:37,205 [-] [PassThroughMessageProcessor-105]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 07:34:13,692 [-] [PassThroughMessageProcessor-120]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 07:34:14,996 [-] [PassThroughMessageProcessor-123]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 07:34:15,639 [-] [PassThroughMessageProcessor-126]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 08:58:23,037 [-] [PassThroughMessageProcessor-130]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /
+2019-10-29 09:35:50,488 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-10-29 09:35:50,533 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-10-29 09:35:51,296 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-10-29 09:38:27,817 [-] [PassThroughMessageProcessor-15]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 09:38:36,999 [-] [PassThroughMessageProcessor-18]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 09:44:07,741 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-10-29 09:44:07,825 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-10-29 09:44:07,825 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-10-29 09:44:28,508 [-] [PassThroughMessageProcessor-3]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 09:44:56,042 [-] [PassThroughMessageProcessor-6]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 10:16:24,603 [-] [PassThroughMessageProcessor-21]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 10:43:09,870 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-10-29 10:43:09,882 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-10-29 10:43:09,937 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-10-29 10:43:41,383 [-] [PassThroughMessageProcessor-6]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 10:44:08,915 [-] [PassThroughMessageProcessor-9]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 10:49:00,803 [-] [PassThroughMessageProcessor-13]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 16:33:15,676 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-10-29 16:33:15,723 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-10-29 16:33:15,723 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-10-29 16:58:25,116 [-] [PassThroughMessageProcessor-12]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 18:01:08,409 [-] [PassThroughMessageProcessor-78]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 18:14:14,352 [-] [PassThroughMessageProcessor-109]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 18:22:38,243 [-] [PassThroughMessageProcessor-132]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /api/1.0.0/domains
+2019-10-29 18:22:38,390 [-] [PassThroughMessageProcessor-133]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 18:22:54,786 [-] [PassThroughMessageProcessor-135]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /carties/1.0.0/domains
+2019-10-29 18:30:05,612 [-] [PassThroughMessageProcessor-150]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 18:30:14,527 [-] [PassThroughMessageProcessor-153]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 18:30:34,701 [-] [PassThroughMessageProcessor-156]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 18:30:37,935 [-] [PassThroughMessageProcessor-159]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 18:30:55,590 [-] [PassThroughMessageProcessor-165]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 18:32:55,094 [-] [PassThroughMessageProcessor-173]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 18:32:58,086 [-] [PassThroughMessageProcessor-176]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 18:34:28,461 [-] [PassThroughMessageProcessor-182]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 18:35:17,477 [-] [PassThroughMessageProcessor-185]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 18:35:23,204 [-] [PassThroughMessageProcessor-194]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 18:35:24,548 [-] [PassThroughMessageProcessor-200]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 18:35:55,573 [-] [PassThroughMessageProcessor-203]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 18:42:32,780 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-10-29 18:42:32,793 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-10-29 18:42:32,795 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-10-29 18:48:22,799 [-] [PassThroughMessageProcessor-3]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 18:48:27,797 [-] [PassThroughMessageProcessor-6]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 18:59:59,403 [-] [PassThroughMessageProcessor-17]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 19:00:00,293 [-] [PassThroughMessageProcessor-20]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 19:00:01,265 [-] [PassThroughMessageProcessor-29]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 19:00:14,374 [-] [PassThroughMessageProcessor-41]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 19:10:06,082 [-] [PassThroughMessageProcessor-45]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 19:10:07,161 [-] [PassThroughMessageProcessor-48]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 19:10:38,431 [-] [PassThroughMessageProcessor-60]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 19:19:54,052 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-10-29 19:19:54,078 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-10-29 19:19:54,080 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-10-29 19:20:28,433 [-] [PassThroughMessageProcessor-3]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 19:20:39,862 [-] [PassThroughMessageProcessor-6]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 19:23:52,258 [-] [PassThroughMessageProcessor-16]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 19:36:15,805 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-10-29 19:36:15,821 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-10-29 19:36:15,821 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-10-29 19:36:31,890 [-] [PassThroughMessageProcessor-3]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 19:36:34,841 [-] [PassThroughMessageProcessor-6]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 19:45:43,415 [-] [PassThroughMessageProcessor-10]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 19:45:45,118 [-] [PassThroughMessageProcessor-16]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 19:45:45,503 [-] [PassThroughMessageProcessor-19]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 19:45:46,703 [-] [PassThroughMessageProcessor-31]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 19:45:47,636 [-] [PassThroughMessageProcessor-40]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 19:46:49,957 [-] [PassThroughMessageProcessor-43]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 19:48:53,118 [-] [PassThroughMessageProcessor-46]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 19:48:55,291 [-] [PassThroughMessageProcessor-49]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 20:06:27,334 [-] [PassThroughMessageProcessor-60]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 20:11:22,831 [-] [PassThroughMessageProcessor-68]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 20:14:43,448 [-] [PassThroughMessageProcessor-72]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 20:15:49,945 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-10-29 20:15:50,198 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-10-29 20:15:50,202 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-10-29 20:16:18,175 [-] [PassThroughMessageProcessor-9]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 20:19:58,132 [-] [PassThroughMessageProcessor-19]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 20:22:13,905 [-] [PassThroughMessageProcessor-23]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 20:27:41,711 [-] [PassThroughMessageProcessor-33]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 20:31:30,047 [-] [PassThroughMessageProcessor-44]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 21:13:40,173 [-] [PassThroughMessageProcessor-57]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 21:18:16,181 [-] [PassThroughMessageProcessor-70]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 21:20:05,365 [-] [PassThroughMessageProcessor-80]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 21:21:17,531 [-] [PassThroughMessageProcessor-86]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 21:21:21,264 [-] [PassThroughMessageProcessor-89]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 21:21:54,529 [-] [PassThroughMessageProcessor-92]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-29 21:27:41,467 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-10-29 21:27:41,488 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-10-29 21:27:41,489 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-10-29 21:44:12,595 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-10-29 21:44:12,617 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-10-29 21:44:12,617 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-10-30 06:10:49,972 [-] [PassThroughMessageProcessor-20]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-30 06:22:10,532 [-] [PassThroughMessageProcessor-55]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-30 09:05:53,358 [-] [PassThroughMessageProcessor-86]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-31 05:45:59,729 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-10-31 05:45:59,783 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-10-31 05:45:59,783 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-10-31 05:47:06,539 [-] [http-nio-9443-exec-6]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /
+2019-10-31 05:47:06,596 [-] [http-nio-9443-exec-36]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /
+2019-10-31 05:47:19,940 [-] [http-nio-9443-exec-40]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /
+2019-10-31 05:47:19,993 [-] [http-nio-9443-exec-38]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /
+2019-10-31 06:01:03,438 [-] [PassThroughMessageProcessor-1]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /api/1.0.0/login?login=user&rassword=test
+2019-10-31 06:01:03,729 [-] [PassThroughMessageProcessor-2]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-10-31 06:01:20,412 [-] [PassThroughMessageProcessor-3]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /carties/1.0.0/login?login=user&rassword=test
+2019-10-31 06:01:20,487 [-] [PassThroughMessageProcessor-4]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-11-01 08:39:53,904 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-01 08:39:53,951 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-01 08:39:53,951 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-05 06:54:25,762 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-05 06:54:25,793 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-05 06:54:25,793 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-05 06:56:14,498 [-] [PassThroughMessageProcessor-1]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /api/1.0.0/login?login=user&rassword=test
+2019-11-05 07:47:30,388 [-] [PassThroughMessageProcessor-9]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-11-05 07:49:24,077 [-] [PassThroughMessageProcessor-15]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-11-05 07:53:03,170 [-] [PassThroughMessageProcessor-20]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-11-05 10:13:19,095 [-] [PassThroughMessageProcessor-33]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /
+2019-11-05 10:32:12,699 [-] [PassThroughMessageProcessor-41]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /
+2019-11-05 10:45:01,509 [-] [PassThroughMessageProcessor-62]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-11-05 11:54:50,245 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-05 11:54:50,255 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-05 11:54:50,261 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-05 12:33:16,729 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-05 12:33:16,767 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-05 12:33:16,770 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-05 12:37:23,644 [-] [PassThroughMessageProcessor-1]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /api/1.0.0/login?login=user?rassword=test
+2019-11-05 12:37:23,866 [-] [PassThroughMessageProcessor-2]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-11-05 12:37:34,408 [-] [PassThroughMessageProcessor-5]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-11-05 12:43:18,709 [-] [PassThroughMessageProcessor-9]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-11-05 12:43:19,890 [-] [PassThroughMessageProcessor-12]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-11-06 04:58:53,444 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-06 04:58:53,476 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-06 04:58:53,477 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-06 05:42:00,588 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-06 05:42:00,610 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-06 05:42:00,614 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-06 05:49:03,506 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-06 05:49:03,538 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-06 05:49:03,540 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-06 06:02:05,767 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-06 06:02:05,798 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-06 06:02:05,799 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-06 06:33:52,982 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-06 06:33:53,021 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-06 06:33:53,022 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-06 09:33:24,967 [-] [PassThroughMessageProcessor-21]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /api/1.0.0/login?login=user&rassword=test
+2019-11-06 09:33:25,118 [-] [PassThroughMessageProcessor-22]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-11-06 09:37:44,922 [-] [PassThroughMessageProcessor-26]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /
+2019-11-06 09:44:03,388 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-06 09:44:03,399 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-06 09:44:03,404 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-06 10:24:29,968 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-06 10:24:30,065 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-06 10:24:30,067 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-06 10:26:45,745 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-06 10:26:45,771 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-06 10:26:45,772 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-06 10:27:38,329 [-] [PassThroughMessageProcessor-1]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /
+2019-11-06 10:27:40,074 [-] [PassThroughMessageProcessor-3]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /
+2019-11-06 10:27:40,150 [-] [PassThroughMessageProcessor-4]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-11-06 10:28:14,158 [-] [PassThroughMessageProcessor-7]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /
+2019-11-06 10:28:24,812 [-] [PassThroughMessageProcessor-8]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-11-06 10:30:41,302 [-] [PassThroughMessageProcessor-9]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /
+2019-11-06 10:30:43,540 [-] [PassThroughMessageProcessor-10]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /
+2019-11-06 10:30:43,570 [-] [PassThroughMessageProcessor-11]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-11-06 10:30:44,300 [-] [PassThroughMessageProcessor-12]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /
+2019-11-06 10:39:15,736 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-06 10:39:15,821 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-06 10:39:15,822 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-06 10:42:29,229 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-06 10:42:29,245 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-06 10:42:29,245 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-06 10:48:52,471 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-06 10:48:52,504 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-06 10:48:52,520 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-06 11:06:53,606 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-06 11:06:53,640 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-06 11:06:53,647 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-06 11:14:05,696 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-06 11:14:05,713 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-06 11:14:05,713 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-06 11:21:59,343 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-06 11:21:59,364 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-06 11:21:59,366 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-06 11:47:23,138 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-06 11:47:23,183 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-06 11:47:23,187 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-06 11:47:46,723 [-] [PassThroughMessageProcessor-1]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /throttle/data/v1/keyTemplates
+2019-11-06 11:47:46,805 [-] [PassThroughMessageProcessor-2]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /throttle/data/v1/block
+2019-11-06 11:50:47,931 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-06 11:50:47,950 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-06 11:50:47,960 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-06 12:06:12,169 [-] [PassThroughMessageProcessor-3]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /favicon.ico
+2019-11-06 12:09:59,123 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-06 12:09:59,153 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-06 12:09:59,156 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-06 12:13:55,505 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-06 12:13:55,541 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-06 12:13:55,543 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-06 12:18:48,877 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-06 12:18:48,908 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-06 12:18:48,908 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-06 12:25:22,658 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-06 12:25:22,678 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-06 12:25:22,700 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-06 12:26:40,937 [-] [PassThroughMessageProcessor-1]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /api/1.0.0/domains
+2019-11-19 11:24:19,367 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-19 11:24:19,398 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-19 11:24:19,398 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-20 08:29:45,656 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-20 08:29:45,703 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-20 08:29:45,703 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-21 05:16:49,969 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-21 05:16:49,984 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-21 05:16:50,000 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-21 09:39:23,657 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-21 09:39:23,665 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-21 09:39:23,667 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-21 11:09:57,976 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-21 11:09:57,998 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-21 11:09:58,000 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-21 12:27:06,774 [-] [PassThroughMessageProcessor-118]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /
+2019-11-22 04:51:26,163 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-22 04:51:26,226 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-22 04:51:26,226 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-11-25 03:40:02,013 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-11-25 03:40:02,028 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-11-25 03:40:02,028 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService

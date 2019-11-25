@@ -1,0 +1,232 @@
+[2019-10-28 19:19:04,129]  INFO -  Initiator=wso2.system.user Action=Get-Roles-of-User Target=admin Data={"Filter":"*","Roles":["Internal/subscriber","Internal/creator","Internal/publisher","Internal/everyone","admin"]} Outcome=Success 
+[2019-10-28 19:38:48,080]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:38:48,079+0000] 
+[2019-10-28 19:39:24,986]  INFO -  Initiator=admin@carbon.super Action=Get-Roles-of-User Target=dev Data={"Filter":"*","Roles":["Internal/everyone"]} Outcome=Success 
+[2019-10-28 19:39:37,689]  WARN -  Initiator=admin@carbon.super Action=Add-User Target=dev Data={"Claims":{},"Roles":["Internal/creator","Internal/publisher","Internal/subscriber"]} Outcome=Success 
+[2019-10-28 19:39:38,187]  INFO -  Initiator=admin@carbon.super Action=Get-User-List Target=null Data={"Users":["admin","dev"]} Outcome=Success 
+[2019-10-28 19:40:08,396]  INFO -  'dev@carbon.super [-1234]' logged in at [2019-10-28 19:40:08,396+0000] 
+[2019-10-28 19:40:09,049]  INFO -  Initiator=dev@carbon.super Action=Get-Roles-of-User Target=dev Data={"Filter":"*","Roles":["Internal/subscriber","Internal/creator","Internal/publisher","Internal/everyone"]} Outcome=Success 
+[2019-10-28 19:41:10,129]  INFO -  {"performedBy":"dev","action":"created","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"WorldBank\",\"context\":\"\\\/wb\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 19:41:10,333]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:41:10,328+0000] 
+[2019-10-28 19:41:10,574]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"WorldBank\",\"context\":\"\\\/wb\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 19:41:10,655]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:41:10,654+0000] 
+[2019-10-28 19:41:43,175]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:41:43,174+0000] 
+[2019-10-28 19:41:43,408]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"WorldBank\",\"context\":\"\\\/wb\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 19:41:43,477]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:41:43,475+0000] 
+[2019-10-28 19:41:50,457]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:41:50,453+0000] 
+[2019-10-28 19:41:50,568]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"WorldBank\",\"context\":\"\\\/wb\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 19:41:50,746]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:41:50,640+0000] 
+[2019-10-28 19:41:51,485]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:41:51,483+0000] 
+[2019-10-28 19:41:51,975]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:41:51,974+0000] 
+[2019-10-28 19:42:43,254]  INFO -  Initiator=admin@carbon.super Action=Get-Roles-of-User Target=developer Data={"Filter":"*","Roles":["Internal/everyone"]} Outcome=Success 
+[2019-10-28 19:42:53,259]  WARN -  Initiator=admin@carbon.super Action=Add-User Target=developer Data={"Claims":{},"Roles":["Internal/subscriber"]} Outcome=Success 
+[2019-10-28 19:42:53,336]  INFO -  Initiator=admin@carbon.super Action=Get-User-List Target=null Data={"Users":["admin","dev","developer"]} Outcome=Success 
+[2019-10-28 19:43:14,262]  INFO -  'developer@carbon.super [-1234]' logged in at [2019-10-28 19:43:14,262+0000] 
+[2019-10-28 19:43:14,756]  INFO -  Initiator=wso2.system.user Action=Get-Roles-of-User Target=developer Data={"Filter":"*","Roles":["Internal/subscriber","Internal/everyone"]} Outcome=Success 
+[2019-10-28 19:43:18,552]  INFO -  {"performedBy":"developer","action":"created","typ":"Subscription","info":"{\"application_name\":\"DefaultApplication\",\"tier\":\"Gold\",\"provider\":\"dev\",\"api_name\":\"WorldBank\",\"application_id\":1}"} 
+[2019-10-28 19:44:15,253]  INFO -  'dev@carbon.super [-1234]' logged in at [2019-10-28 19:44:15,253+0000] 
+[2019-10-28 19:44:21,439]  INFO -  {"performedBy":"dev","action":"created","typ":"Subscription","info":"{\"application_name\":\"DefaultApplication\",\"tier\":\"Gold\",\"provider\":\"dev\",\"api_name\":\"WorldBank\",\"application_id\":2}"} 
+[2019-10-28 19:45:02,315]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:45:02,315+0000] 
+[2019-10-28 19:45:02,348]  INFO -  Initiator : dev@carbon.super | Action : create | Target : 1 | Data : { dev_DefaultApplication_PRODUCTION } | Result : Success  
+[2019-10-28 19:45:02,464]  INFO -  Initiator=dev@carbon.super Action=Get-Roles-of-User Target=dev Data={"Filter":"*","Roles":["Internal/subscriber","Internal/creator","Internal/publisher","Internal/everyone","Application/dev_DefaultApplication_PRODUCTION"]} Outcome=Success 
+[2019-10-28 19:45:02,464]  INFO -  Initiator : dev@carbon.super | Action : update | Target : 1 | Data : { dev_DefaultApplication_PRODUCTION } | Result : Success  
+[2019-10-28 19:45:02,847]  INFO -  {"performedBy":"dev","action":"updated","typ":"Application","info":"{\"Generated keys for application\":\"DefaultApplication\"}"} 
+[2019-10-28 19:45:12,013]  INFO -  Initiator : dev@carbon.super | Action : create | Target : 2 | Data : { dev_DefaultApplication_SANDBOX } | Result : Success  
+[2019-10-28 19:45:12,046]  INFO -  Initiator=dev@carbon.super Action=Get-Roles-of-User Target=dev Data={"Filter":"*","Roles":["Internal/subscriber","Internal/creator","Internal/publisher","Internal/everyone","Application/dev_DefaultApplication_SANDBOX","Application/dev_DefaultApplication_PRODUCTION"]} Outcome=Success 
+[2019-10-28 19:45:12,047]  INFO -  Initiator : dev@carbon.super | Action : update | Target : 2 | Data : { dev_DefaultApplication_SANDBOX } | Result : Success  
+[2019-10-28 19:45:12,146]  INFO -  {"performedBy":"dev","action":"updated","typ":"Application","info":"{\"Generated keys for application\":\"DefaultApplication\"}"} 
+[2019-10-28 19:45:41,914]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:45:41,910+0000] from IP address  
+[2019-10-28 19:45:42,166]  INFO -  Initiator=wso2.system.user Action=Get-Roles-of-User Target=admin Data={"Filter":"*","Roles":["Internal/subscriber","Internal/creator","Internal/publisher","Internal/everyone","admin"]} Outcome=Success 
+[2019-10-28 19:48:26,140]  INFO -  {"performedBy":"dev","action":"created","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 19:48:26,250]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:48:26,249+0000] 
+[2019-10-28 19:48:26,401]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 19:48:26,460]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:48:26,459+0000] 
+[2019-10-28 19:48:39,434]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:48:39,433+0000] 
+[2019-10-28 19:48:39,708]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 19:48:39,761]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:48:39,761+0000] 
+[2019-10-28 19:48:55,125]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:48:55,124+0000] 
+[2019-10-28 19:48:55,463]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 19:48:55,576]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:48:55,575+0000] 
+[2019-10-28 19:48:55,723]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:48:55,722+0000] 
+[2019-10-28 19:48:55,943]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:48:55,943+0000] 
+[2019-10-28 19:49:04,485]  INFO -  {"performedBy":"dev","action":"created","typ":"Subscription","info":"{\"application_name\":\"DefaultApplication\",\"tier\":\"Gold\",\"provider\":\"dev\",\"api_name\":\"kart\",\"application_id\":2}"} 
+[2019-10-28 19:49:04,531]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:49:04,530+0000] 
+[2019-10-28 19:57:59,840]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:57:59,839+0000] 
+[2019-10-28 19:58:00,047]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 19:58:00,121]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:58:00,121+0000] 
+[2019-10-28 19:58:00,250]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:58:00,250+0000] 
+[2019-10-28 19:58:00,576]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:58:00,565+0000] 
+[2019-10-28 19:58:00,688]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:58:00,687+0000] 
+[2019-10-28 19:58:06,994]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:58:06,987+0000] 
+[2019-10-28 19:58:07,192]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 19:58:07,277]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:58:07,277+0000] 
+[2019-10-28 19:58:07,390]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:58:07,389+0000] 
+[2019-10-28 19:58:07,892]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:58:07,891+0000] 
+[2019-10-28 19:58:08,171]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:58:08,164+0000] 
+[2019-10-28 19:58:18,369]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:58:18,368+0000] 
+[2019-10-28 19:58:18,449]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 19:58:18,516]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:58:18,515+0000] 
+[2019-10-28 19:58:18,628]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:58:18,627+0000] 
+[2019-10-28 19:58:18,825]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:58:18,824+0000] 
+[2019-10-28 19:58:19,021]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 19:58:19,020+0000] 
+[2019-10-28 20:05:07,265]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:05:07,265+0000] 
+[2019-10-28 20:05:07,391]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 20:05:07,449]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:05:07,448+0000] 
+[2019-10-28 20:05:07,550]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:05:07,550+0000] 
+[2019-10-28 20:05:07,887]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:05:07,886+0000] 
+[2019-10-28 20:05:07,957]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:05:07,956+0000] 
+[2019-10-28 20:06:15,805]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:06:15,804+0000] 
+[2019-10-28 20:06:15,889]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 20:06:15,944]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:06:15,943+0000] 
+[2019-10-28 20:06:16,047]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:06:16,047+0000] 
+[2019-10-28 20:06:16,290]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:06:16,290+0000] 
+[2019-10-28 20:06:16,367]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:06:16,366+0000] 
+[2019-10-28 20:06:33,881]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:06:33,881+0000] 
+[2019-10-28 20:06:34,064]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 20:06:34,101]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:06:34,099+0000] 
+[2019-10-28 20:06:34,131]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:06:34,131+0000] 
+[2019-10-28 20:06:34,242]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 20:06:34,321]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:06:34,305+0000] 
+[2019-10-28 20:06:34,418]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:06:34,418+0000] 
+[2019-10-28 20:06:34,489]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:06:34,486+0000] 
+[2019-10-28 20:06:35,598]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:06:35,578+0000] 
+[2019-10-28 20:06:35,744]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:06:35,743+0000] 
+[2019-10-28 20:06:35,752]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:06:35,748+0000] 
+[2019-10-28 20:06:35,847]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:06:35,847+0000] 
+[2019-10-28 20:06:35,862]  INFO -  Initiator=dev@carbon.super Action=Get-Roles-of-User Target=dev Data={"Filter":"*","Roles":["Internal/subscriber","Internal/creator","Internal/publisher","Internal/everyone","Application/dev_DefaultApplication_SANDBOX","Application/dev_DefaultApplication_PRODUCTION"]} Outcome=Success 
+[2019-10-28 20:07:08,683]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:08,682+0000] 
+[2019-10-28 20:07:08,762]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 20:07:08,812]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:08,812+0000] 
+[2019-10-28 20:07:08,875]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:08,874+0000] 
+[2019-10-28 20:07:08,992]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:08,991+0000] 
+[2019-10-28 20:07:14,573]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:14,572+0000] 
+[2019-10-28 20:07:14,646]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 20:07:14,696]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:14,696+0000] 
+[2019-10-28 20:07:14,769]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:14,768+0000] 
+[2019-10-28 20:07:14,839]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:14,837+0000] 
+[2019-10-28 20:07:28,486]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:28,485+0000] 
+[2019-10-28 20:07:28,665]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 20:07:28,717]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:28,717+0000] 
+[2019-10-28 20:07:28,792]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:28,792+0000] 
+[2019-10-28 20:07:28,888]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:28,888+0000] 
+[2019-10-28 20:07:41,174]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:41,170+0000] 
+[2019-10-28 20:07:41,298]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 20:07:41,482]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:41,482+0000] 
+[2019-10-28 20:07:41,499]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:41,483+0000] 
+[2019-10-28 20:07:41,580]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 20:07:41,742]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:41,645+0000] 
+[2019-10-28 20:07:41,777]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:41,740+0000] 
+[2019-10-28 20:07:41,806]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 20:07:41,880]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:41,732+0000] 
+[2019-10-28 20:07:41,922]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:41,917+0000] 
+[2019-10-28 20:07:42,064]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:42,046+0000] 
+[2019-10-28 20:07:42,101]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:42,093+0000] 
+[2019-10-28 20:07:42,333]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:42,318+0000] 
+[2019-10-28 20:07:42,522]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:42,447+0000] 
+[2019-10-28 20:07:42,524]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:42,523+0000] 
+[2019-10-28 20:07:42,662]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:42,650+0000] 
+[2019-10-28 20:07:42,739]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:42,738+0000] 
+[2019-10-28 20:07:43,037]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:07:43,023+0000] 
+[2019-10-28 20:09:43,834]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:09:43,832+0000] 
+[2019-10-28 20:09:44,235]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 20:09:44,293]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:09:44,292+0000] 
+[2019-10-28 20:09:44,367]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:09:44,367+0000] 
+[2019-10-28 20:09:44,632]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:09:44,631+0000] 
+[2019-10-28 20:09:44,699]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:09:44,698+0000] 
+[2019-10-28 20:10:08,890]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:10:08,890+0000] 
+[2019-10-28 20:10:09,021]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 20:10:09,074]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:10:09,074+0000] 
+[2019-10-28 20:10:09,151]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:10:09,150+0000] 
+[2019-10-28 20:10:09,399]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:10:09,398+0000] 
+[2019-10-28 20:10:09,459]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:10:09,458+0000] 
+[2019-10-28 20:10:13,044]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:10:13,043+0000] 
+[2019-10-28 20:10:13,125]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 20:10:13,185]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:10:13,185+0000] 
+[2019-10-28 20:10:13,260]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:10:13,259+0000] 
+[2019-10-28 20:10:13,403]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:10:13,403+0000] 
+[2019-10-28 20:10:13,464]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:10:13,463+0000] 
+[2019-10-28 20:11:56,236]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:11:56,235+0000] 
+[2019-10-28 20:11:56,311]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 20:11:56,359]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:11:56,358+0000] 
+[2019-10-28 20:11:56,423]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:11:56,422+0000] 
+[2019-10-28 20:11:56,595]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:11:56,595+0000] 
+[2019-10-28 20:11:56,663]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:11:56,663+0000] 
+[2019-10-28 20:12:00,577]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:12:00,549+0000] 
+[2019-10-28 20:12:00,769]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 20:12:00,804]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:12:00,758+0000] 
+[2019-10-28 20:12:00,843]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:12:00,794+0000] 
+[2019-10-28 20:12:00,893]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 20:12:00,954]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:12:00,857+0000] 
+[2019-10-28 20:12:00,981]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 20:12:01,087]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:12:01,086+0000] 
+[2019-10-28 20:12:01,129]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:12:01,118+0000] 
+[2019-10-28 20:12:01,147]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:12:01,147+0000] 
+[2019-10-28 20:12:01,247]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:12:01,225+0000] 
+[2019-10-28 20:12:01,263]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:12:01,225+0000] 
+[2019-10-28 20:12:01,623]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:12:01,622+0000] 
+[2019-10-28 20:12:01,881]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:12:01,843+0000] 
+[2019-10-28 20:12:01,891]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:12:01,888+0000] 
+[2019-10-28 20:12:01,914]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:12:01,896+0000] 
+[2019-10-28 20:12:02,088]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:12:02,078+0000] 
+[2019-10-28 20:12:02,121]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:12:02,118+0000] 
+[2019-10-28 20:12:45,331]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:12:45,330+0000] 
+[2019-10-28 20:14:07,648]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:14:07,648+0000] 
+[2019-10-28 20:17:54,171]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:17:54,170+0000] 
+[2019-10-28 20:17:54,218]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 20:17:54,265]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:17:54,265+0000] 
+[2019-10-28 20:17:54,324]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:17:54,324+0000] 
+[2019-10-28 20:17:54,397]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:17:54,396+0000] 
+[2019-10-28 20:17:57,190]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:17:57,190+0000] 
+[2019-10-28 20:17:57,252]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 20:17:57,350]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:17:57,350+0000] 
+[2019-10-28 20:17:57,406]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:17:57,406+0000] 
+[2019-10-28 20:17:57,467]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:17:57,466+0000] 
+[2019-10-28 20:18:03,045]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:18:03,043+0000] 
+[2019-10-28 20:18:03,120]  INFO -  {"performedBy":"dev","action":"updated","typ":"API","info":"{\"provider\":\"dev\",\"name\":\"kart\",\"context\":\"\\\/kart\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2019-10-28 20:18:03,178]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:18:03,178+0000] 
+[2019-10-28 20:18:03,253]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:18:03,252+0000] 
+[2019-10-28 20:18:03,314]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:18:03,313+0000] 
+[2019-10-28 20:18:27,216]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:18:27,213+0000] 
+[2019-10-28 20:18:49,213]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:18:49,212+0000] 
+[2019-10-28 20:19:38,707]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:19:38,706+0000] 
+[2019-10-28 20:20:44,171]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:20:44,171+0000] 
+[2019-10-28 20:21:16,794]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:21:16,782+0000] 
+[2019-10-28 20:21:37,323]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:21:37,323+0000] 
+[2019-10-28 20:21:37,449]  INFO -  Initiator=admin@carbon.super Action=Get-Roles-of-User Target=admin Data={"Filter":"*","Roles":["Internal/subscriber","Internal/creator","Internal/publisher","Internal/everyone","admin"]} Outcome=Success 
+[2019-10-28 20:21:46,901]  INFO -  {"performedBy":"admin","action":"created","typ":"Subscription","info":"{\"application_name\":\"DefaultApplication\",\"tier\":\"Unlimited\",\"provider\":\"dev\",\"api_name\":\"kart\",\"application_id\":3}"} 
+[2019-10-28 20:21:57,808]  INFO -  Initiator : admin@carbon.super | Action : create | Target : 3 | Data : { admin_DefaultApplication_PRODUCTION } | Result : Success  
+[2019-10-28 20:21:57,844]  INFO -  Initiator=admin@carbon.super Action=Get-Roles-of-User Target=admin Data={"Filter":"*","Roles":["Internal/subscriber","Internal/creator","Application/admin_DefaultApplication_PRODUCTION","Internal/publisher","Internal/everyone","admin"]} Outcome=Success 
+[2019-10-28 20:21:57,844]  INFO -  Initiator : admin@carbon.super | Action : update | Target : 3 | Data : { admin_DefaultApplication_PRODUCTION } | Result : Success  
+[2019-10-28 20:21:57,964]  INFO -  {"performedBy":"admin","action":"updated","typ":"Application","info":"{\"Generated keys for application\":\"DefaultApplication\"}"} 
+[2019-10-28 20:22:09,421]  INFO -  Initiator : admin@carbon.super | Action : create | Target : 4 | Data : { admin_DefaultApplication_SANDBOX } | Result : Success  
+[2019-10-28 20:22:09,432]  INFO -  Initiator=admin@carbon.super Action=Get-Roles-of-User Target=admin Data={"Filter":"*","Roles":["Internal/subscriber","Internal/creator","Application/admin_DefaultApplication_PRODUCTION","Application/admin_DefaultApplication_SANDBOX","Internal/publisher","Internal/everyone","admin"]} Outcome=Success 
+[2019-10-28 20:22:09,434]  INFO -  Initiator : admin@carbon.super | Action : update | Target : 4 | Data : { admin_DefaultApplication_SANDBOX } | Result : Success  
+[2019-10-28 20:22:09,475]  INFO -  {"performedBy":"admin","action":"updated","typ":"Application","info":"{\"Generated keys for application\":\"DefaultApplication\"}"} 
+[2019-10-28 20:22:24,697]  INFO -  {"performedBy":"admin","action":"updated","typ":"Application","info":"{\"Re-Generated Keys for application with client Id\":\"upJ5Jd7AswWtrAQH_nPVyml0kfEa\"}"} 
+[2019-10-28 20:22:24,751]  INFO -  {"performedBy":"admin","action":"updated","typ":"Application","info":"{\"Re-Generated Keys for application with client Id\":\"upJ5Jd7AswWtrAQH_nPVyml0kfEa\"}"} 
+[2019-10-28 20:22:33,285]  INFO -  {"performedBy":"admin","action":"updated","typ":"Application","info":"{\"Re-Generated Keys for application with client Id\":\"TSg2M5tiBJq1i3kXyZYu6ykz_5wa\"}"} 
+[2019-10-28 20:23:35,966]  INFO -  {"performedBy":"admin","action":"created","typ":"Subscription","info":"{\"application_name\":\"DefaultApplication\",\"tier\":\"Gold\",\"provider\":\"dev\",\"api_name\":\"WorldBank\",\"application_id\":3}"} 
+[2019-10-28 20:23:35,988]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:23:35,987+0000] 
+[2019-10-28 20:24:44,128]  INFO -  {"performedBy":"admin","action":"deleted","typ":"Subscription","info":"{\"application_name\":\"DefaultApplication\",\"provider\":\"dev\",\"api_name\":\"kart\",\"application_id\":3}"} 
+[2019-10-28 20:24:44,149]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:24:44,147+0000] 
+[2019-10-28 20:24:53,960]  INFO -  {"performedBy":"admin","action":"created","typ":"Subscription","info":"{\"application_name\":\"DefaultApplication\",\"tier\":\"Unlimited\",\"provider\":\"dev\",\"api_name\":\"kart\",\"application_id\":3}"} 
+[2019-10-28 20:24:53,973]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:24:53,966+0000] 
+[2019-10-28 20:27:26,914]  INFO -  'dev@carbon.super [-1234]' logged in at [2019-10-28 20:27:26,914+0000] 
+[2019-10-28 20:27:27,030]  INFO -  Initiator=dev@carbon.super Action=Get-Roles-of-User Target=dev Data={"Filter":"*","Roles":["Internal/subscriber","Internal/creator","Internal/publisher","Internal/everyone","Application/dev_DefaultApplication_SANDBOX","Application/dev_DefaultApplication_PRODUCTION"]} Outcome=Success 
+[2019-10-28 20:27:56,438]  INFO -  {"performedBy":"dev","action":"deleted","typ":"Subscription","info":"{\"application_name\":\"DefaultApplication\",\"provider\":\"dev\",\"api_name\":\"kart\",\"application_id\":2}"} 
+[2019-10-28 20:27:56,459]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:27:56,457+0000] 
+[2019-10-28 20:28:06,152]  INFO -  {"performedBy":"dev","action":"created","typ":"Subscription","info":"{\"application_name\":\"DefaultApplication\",\"tier\":\"Unlimited\",\"provider\":\"dev\",\"api_name\":\"kart\",\"application_id\":2}"} 
+[2019-10-28 20:28:06,157]  INFO -  'admin@carbon.super [-1234]' logged in at [2019-10-28 20:28:06,157+0000] 
+[2019-10-28 20:29:40,031]  INFO -  {"performedBy":"dev","action":"created","typ":"Application","info":"{\"tier\":\"Unlimited\",\"name\":\"kartography\",\"callbackURL\":null}"} 
+[2019-10-28 20:29:47,269]  INFO -  {"performedBy":"dev","action":"created","typ":"Subscription","info":"{\"application_name\":\"kartography\",\"tier\":\"Unlimited\",\"provider\":\"dev\",\"api_name\":\"kart\",\"application_id\":4}"} 
+[2019-10-28 20:29:58,638]  INFO -  Initiator : dev@carbon.super | Action : create | Target : 5 | Data : { dev_kartography_PRODUCTION } | Result : Success  
+[2019-10-28 20:29:58,647]  INFO -  Initiator=dev@carbon.super Action=Get-Roles-of-User Target=dev Data={"Filter":"*","Roles":["Internal/subscriber","Internal/creator","Internal/publisher","Internal/everyone","Application/dev_DefaultApplication_SANDBOX","Application/dev_kartography_PRODUCTION","Application/dev_DefaultApplication_PRODUCTION"]} Outcome=Success 
+[2019-10-28 20:29:58,648]  INFO -  Initiator : dev@carbon.super | Action : update | Target : 5 | Data : { dev_kartography_PRODUCTION } | Result : Success  
+[2019-10-28 20:29:58,728]  INFO -  {"performedBy":"dev","action":"updated","typ":"Application","info":"{\"Generated keys for application\":\"kartography\"}"} 
+[2019-10-28 20:30:21,690]  INFO -  {"performedBy":"dev","action":"updated","typ":"Application","info":"{\"Re-Generated Keys for application with client Id\":\"mMb5YlLlNzKnt6MX6c9m_TUJjR0a\"}"} 
+[2019-10-28 20:30:24,641]  INFO -  Initiator : dev@carbon.super | Action : update | Target : 5 | Data : { dev_kartography_PRODUCTION } | Result : Success  
+[2019-10-28 20:30:24,646]  INFO -  {"performedBy":"dev","action":"updated","typ":"Application","info":"{\"application_name\":null,\"Updated Oauth app with grant types\":\"{\\\"grant_types\\\":\\\"refresh_token,urn:ietf:params:oauth:grant-type:saml2-bearer,password,client_credentials,iwa:ntlm,urn:ietf:params:oauth:grant-type:jwt-bearer\\\",\\\"username\\\":\\\"dev\\\"}\",\"Updated Oauth app with Call back URL\":\"\"}"} 
+[2019-10-28 20:30:31,862]  INFO -  Initiator : dev@carbon.super | Action : create | Target : 6 | Data : { dev_kartography_SANDBOX } | Result : Success  
+[2019-10-28 20:30:31,866]  INFO -  Initiator=dev@carbon.super Action=Get-Roles-of-User Target=dev Data={"Filter":"*","Roles":["Internal/subscriber","Internal/creator","Internal/publisher","Internal/everyone","Application/dev_DefaultApplication_SANDBOX","Application/dev_kartography_PRODUCTION","Application/dev_kartography_SANDBOX","Application/dev_DefaultApplication_PRODUCTION"]} Outcome=Success 
+[2019-10-28 20:30:31,866]  INFO -  Initiator : dev@carbon.super | Action : update | Target : 6 | Data : { dev_kartography_SANDBOX } | Result : Success  
+[2019-10-28 20:30:31,931]  INFO -  {"performedBy":"dev","action":"updated","typ":"Application","info":"{\"Generated keys for application\":\"kartography\"}"} 
+[2019-10-28 20:32:33,719]  INFO -  {"performedBy":"dev","action":"updated","typ":"Application","info":"{\"Re-Generated Keys for application with client Id\":\"TSg2M5tiBJq1i3kXyZYu6ykz_5wa\"}"} 

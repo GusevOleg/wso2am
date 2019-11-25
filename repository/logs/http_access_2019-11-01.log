@@ -1,0 +1,2 @@
+127.0.0.1 - - [01/Nov/2019:08:40:13 +0000] "GET /throttle/data/v1/keyTemplates HTTP/1.1" 200 12 "-" "-"
+127.0.0.1 - - [01/Nov/2019:08:40:13 +0000] "GET /throttle/data/v1/block HTTP/1.1" 200 68 "-" "-"

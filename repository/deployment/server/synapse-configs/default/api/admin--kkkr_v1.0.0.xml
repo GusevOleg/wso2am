@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<api xmlns="http://ws.apache.org/ns/synapse"
+     name="admin--kkkr"
+     context="/foo/1.0.0"
+     version="1.0.0"
+     version-type="context">
+   <resource methods="GET" url-mapping="/login" faultSequence="fault">
+      <inSequence>
+         <property name="api.ut.backendRequestTime"
+                   expression="get-property('SYSTEM_TIME')"/>
+         <property name="Origin"
+                   value="https://localhost:9443"/>
+
+         <filter source="$ctx:AM_KEY_TYPE" regex="PRODUCTION">
+            <then>
+               <send>
+                  <endpoint key="kkkr--v1.0.0_APIproductionEndpoint"/>
+               </send>
+            </then>
+            <else>
+               <send>
+                  <endpoint key="kkkr--v1.0.0_APIsandboxEndpoint"/>
+               </send>
+            </else>
+         </filter>
+      </inSequence>
+      <outSequence>
+         <class name="org.wso2.carbon.apimgt.gateway.handlers.analytics.APIMgtResponseHandler"/>
+<property name="Access-Control-Allow-Headers" scope="transport" value="authorization,Access-Control-Allow-Origin,Content-Type,Action"></property>
+        
+         <send/>
+      </outSequence>
+   </resource>
+   <handlers>
+      <handler class="org.wso2.carbon.apimgt.gateway.handlers.common.APIMgtLatencyStatsHandler"/>
+      <handler class="org.wso2.carbon.apimgt.gateway.handlers.security.CORSRequestHandler">
+         <property name="apiImplementationType" value="ENDPOINT"/>
+         <property name="allowHeaders"
+                   value="authorization,Access-Control-Allow-Origin,Content-Type,SOAPAction, Origin"/>
+         <property name="allowedOrigins" value="*"/>
+         <property name="allowedMethods" value="GET,PUT,POST,DELETE,PATCH,OPTIONS"/>
+         <property name="allowCredentials" value="true"/>
+      </handler>
+      <handler class="org.wso2.carbon.apimgt.gateway.handlers.security.APIAuthenticationHandler">
+         <property name="RemoveOAuthHeadersFromOutMessage" value="true"/>
+      </handler>
+      <handler class="org.wso2.carbon.apimgt.gateway.handlers.throttling.ThrottleHandler"/>
+      <handler class="org.wso2.carbon.apimgt.gateway.handlers.analytics.APIMgtUsageHandler"/>
+      <handler class="org.wso2.carbon.apimgt.gateway.handlers.analytics.APIMgtGoogleAnalyticsTrackingHandler">
+         <property name="configKey" value="gov:/apimgt/statistics/ga-config.xml"/>
+      </handler>
+      <handler class="org.wso2.carbon.apimgt.gateway.handlers.ext.APIManagerExtensionHandler"/>
+   </handlers>
+</api>

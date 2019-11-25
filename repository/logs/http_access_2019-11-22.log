@@ -1,0 +1,7 @@
+13.79.193.154 - - [22/Nov/2019:04:51:42 +0000] "GET /throttle/data/v1/block HTTP/1.1" 200 68 "-" "-"
+13.79.193.154 - - [22/Nov/2019:04:51:42 +0000] "GET /throttle/data/v1/keyTemplates HTTP/1.1" 200 12 "-" "-"
+13.79.193.154 - - [22/Nov/2019:08:17:31 +0000] "POST /thriftAuthenticator HTTP/1.1" 200 67 "-" "Java/THttpClient/HC"
+13.79.193.154 - - [22/Nov/2019:09:14:58 +0000] "POST /thriftAuthenticator HTTP/1.1" 200 67 "-" "Java/THttpClient/HC"
+13.79.193.154 - - [22/Nov/2019:09:14:58 +0000] "POST /thriftAuthenticator HTTP/1.1" 200 67 "-" "Java/THttpClient/HC"
+13.79.193.154 - - [22/Nov/2019:11:26:23 +0000] "POST /thriftAuthenticator HTTP/1.1" 200 67 "-" "Java/THttpClient/HC"
+13.79.193.154 - - [22/Nov/2019:11:26:23 +0000] "POST /thriftAuthenticator HTTP/1.1" 200 67 "-" "Java/THttpClient/HC"
